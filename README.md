@@ -57,6 +57,8 @@ libfranka版本下的是0.15.0
 
 
 # franka_ros2
+我的主机上装的是ros2，因此我直接安装franka_ros2，没有安装franka_ros
+
 安装和操作参考[指南](https://www.franka.cn/FCI/franka_ros2.html)即可（或者[github](https://github.com/frankarobotics/franka_ros2)）
 
 记得开启FCI
